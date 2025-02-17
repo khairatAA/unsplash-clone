@@ -2,7 +2,7 @@
   "name": "unsplash-clone",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://khairatAA.github.io/unsplash-clone",
+  "homepage": "https://khairataa.github.io/unsplash-clone",
   "type": "module",
   "scripts": {
     "dev": "vite",
