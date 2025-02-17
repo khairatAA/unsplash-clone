@@ -43,20 +43,18 @@ Create a new application to get your Access Key.
 
 ### 4. Configure the API Key
 
-```
 In your project, create a .env file in the root directory and add your Unsplash Access Key:
 
-VUE_APP_UNSPLASH_ACCESS_KEY=your-access-key-here
+```
+VITE_APP_UNSPLASH_ACCESS_KEY=your-access-key-here
 ```
 
-### 5.
+### 5. Run the App
 
-Run the App
-
-```
 To run the app locally, use the following command:
 
+```
 npm run dev
+```
 
 This will start the local development server. Visit http://localhost:5173 in your browser to view the app.
-```
