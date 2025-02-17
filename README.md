@@ -2,6 +2,10 @@
 
 This project is a mini clone of the Unsplash website, built using Vue.js, Axios, and SCSS, which interacts with the [Unsplash API](https://unsplash.com/developers) to fetch and display photos. The app implements features such as a staggered grid layout, image modals, and loading placeholders, while focusing on responsive design and a smooth user experience.
 
+## Link To Deployed URL
+
+[Unsplash Clone](https://cowrywise-unsplash-clone.netlify.app/)
+
 ## Features
 
 - **Landing Page**: Displays 7-8 latest "African" photos fetched from the Unsplash API.
